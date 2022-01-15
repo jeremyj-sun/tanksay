@@ -5,7 +5,7 @@ cowsay for Windows ... with a twist
 
 ### Example 1: Planned cmdlet usage example
 ```
-'Welcome back Jeremy! Have a nice day!' | Set-Tanksay --color Green
+'Welcome back Jeremy! Have a nice day!' | Set-Tanksay --color Green --tank Panther
 ```
 
 ### Example 1: Expected output for a new Powershell session
